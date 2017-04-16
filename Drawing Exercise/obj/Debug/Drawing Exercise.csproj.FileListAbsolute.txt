@@ -1,0 +1,9 @@
+c:\users\shresk03\documents\visual studio 2015\Projects\Drawing Exercise\Drawing Exercise\bin\Debug\Drawing Exercise.exe.config
+c:\users\shresk03\documents\visual studio 2015\Projects\Drawing Exercise\Drawing Exercise\bin\Debug\Drawing Exercise.exe
+c:\users\shresk03\documents\visual studio 2015\Projects\Drawing Exercise\Drawing Exercise\bin\Debug\Drawing Exercise.pdb
+c:\users\shresk03\documents\visual studio 2015\Projects\Drawing Exercise\Drawing Exercise\obj\Debug\Drawing Exercise.csprojResolveAssemblyReference.cache
+c:\users\shresk03\documents\visual studio 2015\Projects\Drawing Exercise\Drawing Exercise\obj\Debug\Drawing_Exercise.Form1.resources
+c:\users\shresk03\documents\visual studio 2015\Projects\Drawing Exercise\Drawing Exercise\obj\Debug\Drawing_Exercise.Properties.Resources.resources
+c:\users\shresk03\documents\visual studio 2015\Projects\Drawing Exercise\Drawing Exercise\obj\Debug\Drawing Exercise.csproj.GenerateResource.Cache
+c:\users\shresk03\documents\visual studio 2015\Projects\Drawing Exercise\Drawing Exercise\obj\Debug\Drawing Exercise.exe
+c:\users\shresk03\documents\visual studio 2015\Projects\Drawing Exercise\Drawing Exercise\obj\Debug\Drawing Exercise.pdb
